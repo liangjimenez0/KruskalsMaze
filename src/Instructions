@@ -1,0 +1,18 @@
+How to play the Maze Game:
+
+- Key 'b' to run a breadth first search
+
+- Key 'd' to run a depth first search
+
+- Key 'r' to design a new random maze
+
+- Key 'R' to start a new maze without restarting the program (aka start again with the same maze)
+
+- Key 'u' to take away the viewing of the visited paths
+
+- Key 'v' to see the viewing of the visited paths
+
+On the bottom of the screen are the scores of the wrong moves for BFS and DFS. These moves reset each time you
+reset the board.
+
+Once the search is completed, the path will automatically be shown for the user.
